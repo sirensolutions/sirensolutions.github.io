@@ -1,0 +1,44 @@
+---
+---
+
+@import "{{ site.theme }}";
+@import "colors";
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-size: 18px;
+  font-family: Arial;
+  color: gray;
+}
+
+.page-header {
+  @extend .blue-1-bg;
+}
+
+#content {
+  max-width: 900px;
+  margin: auto;
+  display: block;
+  position: relative;
+
+  table {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.site-footer {
+  position:relative;
+  display: flex;
+  justify-content: center;
+  bottom:10px;
+  top: 25px;
+  width:100%;
+  font-size: small;
+}
