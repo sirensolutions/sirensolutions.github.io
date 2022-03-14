@@ -14,12 +14,20 @@ body {
   font-size: 18px;
   font-family: Arial;
   color: gray;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+main {
+  flex: 1 0 auto;
 }
 
 .page-header {
   display: block;
   width: 100%;
-  position: fixed;
+  height: 85px;
+  flex-shrink: 0;
   top: 0;
   left: 0;
   z-index: 200;
@@ -28,17 +36,15 @@ body {
   #header-logo {
     width: 200px;
     height: auto;
-    margin: 10px 0 10px 10px;
+    margin: 10px 0 0 10px;
     left: 5%;
   }
 }
 
 #content {
   max-width: 900px;
-  margin: auto;
+  margin: 85px auto 0 auto;
   display: block;
-  position: relative;
-  margin-top: 85px;
 
   table {
     max-width: 600px;
@@ -48,11 +54,10 @@ body {
 }
 
 .site-footer {
-  position:relative;
+  flex-shrink: 0;
   display: flex;
   justify-content: center;
-  bottom:10px;
-  top: 25px;
-  width:100%;
+  width: 100%;
+  bottom: 10px;
   font-size: small;
 }
