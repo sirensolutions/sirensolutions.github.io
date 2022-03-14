@@ -17,7 +17,20 @@ body {
 }
 
 .page-header {
-  @extend .blue-1-bg;
+  display: block;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 200;
+  background-color: #23374b;
+
+  .header-logo {
+    width: 200px;
+    height: auto;
+    top: 10px;
+    left: 5%;
+  }
 }
 
 #content {
