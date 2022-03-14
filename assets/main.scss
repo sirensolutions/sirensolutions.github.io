@@ -25,10 +25,10 @@ body {
   z-index: 200;
   background-color: #23374b;
 
-  .header-logo {
+  #header-logo {
     width: 200px;
     height: auto;
-    top: 10px;
+    margin: 10px 0 10px 10px;
     left: 5%;
   }
 }
@@ -38,6 +38,7 @@ body {
   margin: auto;
   display: block;
   position: relative;
+  margin-top: 85px;
 
   table {
     max-width: 600px;

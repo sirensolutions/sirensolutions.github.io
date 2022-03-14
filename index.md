@@ -1,2 +1,9 @@
-* [siren er](siren-er.md)
-* [siren NLP](siren-nlp.md)
+## Plugins
+
+
+Download Siren Plugins for installation
+
+--------
+
+* [Siren Entity Resolution](siren-er.md)
+* [Siren NLP](siren-nlp.md)
