@@ -23,7 +23,10 @@ body {
     display: inline-block;
     vertical-align: top;
   }
-  .icon-big {font-size:55px;color:#f4af1a;}
+  .icon-big {
+    font-size: 55px;
+    color: #f4af1a;
+  }
   .highlight .icon-big {color:#c00;}
 
   .ss-row {
