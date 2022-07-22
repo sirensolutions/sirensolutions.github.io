@@ -30,3 +30,7 @@ For more details, see our [documentation](https://docs.support.siren.io/siren-nl
 | 7.15.2 | [7.15.2-0.5.1](https://download.support.siren.io/plugins/siren-nlp/siren-nlp-7.15.2-0.5.1.zip) |
 | 7.16.2 | [7.16.2-0.5.3](https://download.support.siren.io/plugins/siren-nlp/siren-nlp-7.16.2-0.5.3.zip) |
 | 7.16.3 | [7.16.3-0.5.4](https://download.support.siren.io/plugins/siren-nlp/siren-nlp-7.16.3-0.5.4.zip) |
+| 7.17.1 | [7.17.1-0.5.5](https://download.support.siren.io/plugins/siren-nlp/siren-nlp-7.17.1-0.5.5.zip) |
+| 7.17.3 | [7.17.3-0.5.5](https://download.support.siren.io/plugins/siren-nlp/siren-nlp-7.17.3-0.5.5.zip) |
+| 7.17.4 | [7.17.4-0.5.5](https://download.support.siren.io/plugins/siren-nlp/siren-nlp-7.17.4-0.5.5.zip) |
+| 7.17.5 | [7.17.5-0.5.5](https://download.support.siren.io/plugins/siren-nlp/siren-nlp-7.17.5-0.5.5.zip) |
