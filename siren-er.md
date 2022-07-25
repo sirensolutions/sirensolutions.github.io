@@ -3,24 +3,9 @@ permalink: /siren-er/
 ---
 # Siren Entity Resolution
 
-Entity resolution is the artificial intelligence / machine learning ability to recognize that two or more records (in the same or in separate tables and datasources) are in fact talking about the same entity (person, company, thing).
+Entity resolution is the artificial intelligence / machine learning ability to recognize that two or more records (in the same or in separate tables) represent the same real world entity (person, company, etc.).
 
 
-Use Siren Entity Resolution (ER) ability to find missing links in combination with Siren link analysis (graph browser) capabilities to explore previously unidentified connections and much more.
+Use Siren Entity Resolution (ER) to find missing links in combination with Siren link analysis capabilities to explore previously unidentified connections.
 
-
-Siren ER can be used:
-
-* in conjunction with Siren’s own ETL process (Data Reflections).  We provide a recipe for this method comprised of “transformation scripts” to use in several “data reflections” tasks pushing data to and from the Siren ER component.
-
-* as an API as part of your own existing extract-transformation-load (ETL) process. In this case you can simply refer to the API documentation.
-
-License:
-
-
-
-Siren ER is available in the free Siren Community Edition for up to to 10k records. To integrate Siren ER with Siren Investigate contact us.
-
-
-
-Book a demo or get in touch with us info@siren.io to explore how Siren ER works on your solutions.
+Siren ER consist of several specially-configured several third party components and is available in the free Siren Community Edition for up to 100k records.  To start using Siren ER visit the [documentation](https://docs.support.siren.io/siren-er/2.0.0/siren-er/siren-er-beta.html)
