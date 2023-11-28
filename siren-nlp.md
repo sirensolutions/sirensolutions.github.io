@@ -42,3 +42,4 @@ For more details, see our [documentation](https://docs.support.siren.io/siren-nl
 | 8.7.1 | [8.7.1-0.5.6](https://download.support.siren.io/plugins/siren-nlp/siren-nlp-8.7.1-0.5.6.zip) |
 | 7.17.14 | [7.17.14-0.5.5](https://download.support.siren.io/plugins/siren-nlp/siren-nlp-7.17.14-0.5.5.zip) |
 | 7.17.12 | [7.17.12-0.5.5](https://download.support.siren.io/plugins/siren-nlp/siren-nlp-7.17.12-0.5.5.zip) |
+| 7.17.15 | [7.17.15-0.5.5](https://download.support.siren.io/plugins/siren-nlp/siren-nlp-7.17.15-0.5.5.zip) |
