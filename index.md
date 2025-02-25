@@ -1,11 +1,10 @@
-### Siren Plugins
+## Plugins
 
 Download Siren Plugins for installation
 
----
+--------
 
 <div class="container">
-   <!-- Elasticsearch Plugins Section -->
    <div class="plugin-section">
       <h4 class="section-title">Elasticsearch Plugins</h4>
       <div class="plugin-flex">
@@ -29,7 +28,6 @@ Download Siren Plugins for installation
          </div>
       </div>
    </div>
-   <!-- Siren Investigate Plugins Section -->
    <div class="plugin-section">
       <h4 class="section-title">Siren Investigate Plugins</h4>
       <div class="plugin-flex">
