@@ -12,6 +12,8 @@ This plugin offers the following features:
 
 The supported LLM providers are OpenAI, Azure OpenAI, Ollama, and AWS Bedrock.
 
+Please refer to the [official documentation](https://docs.siren.io/siren-ai/1.0/siren-ai/t_installing.html) for instructions on how to install this plugin.
+
 | Investigate version | Siren AI Plugin |
 | --- | --- |
 | 14.5.2 and later  | [1.0.0](https://download.support.siren.io/plugins/siren-ai/siren-ai-1.0.0.zip) |
