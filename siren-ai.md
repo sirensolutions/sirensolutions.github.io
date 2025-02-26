@@ -12,7 +12,19 @@ This plugin offers the following features:
 
 The supported LLM providers are OpenAI, Azure OpenAI, Ollama, and AWS Bedrock.
 
-Please refer to the [official documentation](https://docs.siren.io/siren-ai/1.0/siren-ai/t_installing.html) for instructions on how to install this plugin.
+<br />
+
+### Installation
+* Download the plugin below.
+* Open a terminal in the directory of your Investigate installation, and run the following command:
+
+```
+./bin/investigate-plugin install file:///path/to/siren-ai.zip
+```
+
+<br />
+
+### Releases
 
 | Investigate version | Siren AI Plugin |
 | --- | --- |
