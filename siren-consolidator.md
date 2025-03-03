@@ -10,6 +10,8 @@ Chosen values from different satellite indices can be merged into lists of value
 
 For more information, see the [documentation](https://download.support.siren.io/plugins/siren-consolidator/siren-consolidator.pdf).
 
+<br />
+### Releases
 
 | Elasticsearch Version | Siren Consolidator Plugin |
 | --- | --- |

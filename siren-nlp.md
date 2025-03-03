@@ -8,9 +8,11 @@ Entity extraction is a technique that identifies and segments the named entities
 
 You can use the NLP plugin to enrich text fields with annotations for named entities, such as Organization, Person, or Location, and predefined taxonomies.
 
-
-
 For more details, see our [documentation](https://docs.support.siren.io/siren-nlp/0.5.1/siren-nlp/introduction.html).
+
+<br />
+
+### Releases
 
 | Elasticsearch Version | Siren NLP Plugin |
 | --- | --- |
