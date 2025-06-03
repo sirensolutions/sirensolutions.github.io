@@ -1,5 +1,5 @@
 ---
-permalink: /siren-ai/
+permalink: /siren-ai
 ---
 # Siren AI Plugin
 The Siren AI plugin integrates Investigate with various LLM providers enabling users to leverage large language models (LLM) within their Investigate environment.
@@ -25,6 +25,8 @@ The supported LLM providers are OpenAI, Azure OpenAI, Ollama, and AWS Bedrock. P
 <br />
 
 ### Releases
+
+Release notes for each version can be found in the [Siren AI changelog]({{ "/siren-ai/changelog" | relative_url }}).
 
 | Investigate version | Siren AI Plugin                                                                                                                                                  |
 | --- |------------------------------------------------------------------------------------------------------------------------------------------------------------------|
