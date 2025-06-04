@@ -6,6 +6,8 @@ The Siren AI plugin integrates Investigate with various LLM providers enabling u
 
 This plugin offers the following features:
 
+* K9 Companion: AI chat assistant enabling intelligent, context-aware conversations by leveraging the configured LLM provider.
+
 * Generate comprehensive reports by analyzing user-created graphs.
 
 * Extends the Siren API scripting environment by providing a set of methods for interacting programmatically with a configured LLM. This allows for the customization of UIs and workflows that integrate generative AI.
