@@ -3,6 +3,14 @@ permalink: /siren-ai/changelog
 ---
 # Siren AI changelog
 
+## 1.3.0
+
+- K9 chat and report generation prompts can now be customized in the advanced settings ⚙️
+- Graph serialization has been turbo-charged, so now graphs up to three times larger can be sent to the LLM 🦣
+- Minor doc improvements 📑
+- Fixed issue where references to EIDs in the graph aren't clickable 🖱️
+- Fixed issue where EIDs couldn't be styled by K9 Chat Companion
+
 ## 1.2.0
 
 - K9 improvements
