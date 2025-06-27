@@ -3,6 +3,14 @@ permalink: /siren-ai/changelog
 ---
 # Siren AI changelog
 
+## 1.3.1
+
+- Further optimization to the amount of graph data sent to the LLM
+- Fixed incorrect graph edge data being sent to the LLM
+- Fixed aggregated relations not being seen by the LLM
+- Added doc section describing what graph data is used
+- Fixed K9 chat window not scrolling to the bottom when new messages are sent/received on Firefox
+
 ## 1.3.0
 
 - K9 chat and report generation prompts can now be customized in the advanced settings ⚙️
