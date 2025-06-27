@@ -32,5 +32,5 @@ Release notes for each version can be found in the [Siren AI changelog]({{ "/sir
 
 | Investigate version | Siren AI Plugin                                                                                                                                                  |
 | --- |------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 14.7.0 and later  | [1.3.0](https://download.support.siren.io/plugins/siren-ai/siren-ai-1.3.0.zip)<br>[1.2.0](https://download.support.siren.io/plugins/siren-ai/siren-ai-1.2.0.zip)<br>[1.1.0](https://download.support.siren.io/plugins/siren-ai/siren-ai-1.1.0.zip) | 
+| 14.7.0 and later  | [1.3.1](https://download.support.siren.io/plugins/siren-ai/siren-ai-1.3.1.zip)<br>[1.3.0](https://download.support.siren.io/plugins/siren-ai/siren-ai-1.3.0.zip)<br>[1.2.0](https://download.support.siren.io/plugins/siren-ai/siren-ai-1.2.0.zip)<br>[1.1.0](https://download.support.siren.io/plugins/siren-ai/siren-ai-1.1.0.zip) | 
 | 14.5.2 - 14.6.0  | [1.0.1](https://download.support.siren.io/plugins/siren-ai/siren-ai-1.0.1.zip)<br>[1.0.0](https://download.support.siren.io/plugins/siren-ai/siren-ai-1.0.0.zip) |
