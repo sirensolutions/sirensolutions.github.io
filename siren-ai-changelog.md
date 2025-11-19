@@ -3,6 +3,11 @@ permalink: /siren-ai/changelog
 ---
 # Siren AI changelog
 
+## 1.3.2
+
+- Fixed issue where K9 could not see records-as-relations from dataspaces other than HOME
+- Minor documentation improvements
+
 ## 1.3.1
 
 - Further optimization to the amount of graph data sent to the LLM
