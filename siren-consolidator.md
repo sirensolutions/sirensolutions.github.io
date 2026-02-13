@@ -8,11 +8,11 @@ This plugin provides an Elasticsearch ingest processor which merges documents in
 
 Chosen values from different satellite indices can be merged into lists of values in the central document.
 
-For more information, see the [documentation](https://download.support.siren.io/plugins/siren-consolidator/siren-consolidator.pdf).
+For more information, see the [documentation](https://download1.siren.io/plugins/siren-consolidator/siren-consolidator.pdf).
 
 <br />
 ### Releases
 
 | Elasticsearch Version | Siren Consolidator Plugin |
 | --- | --- |
-| 7.11.2 | [7.11.2-1.0.0](https://download.support.siren.io/plugins/siren-consolidator/siren-consolidator-7.11.2-1.0.0.zip) |
+| 7.11.2 | [7.11.2-1.0.0](https://download1.siren.io/plugins/siren-consolidator/siren-consolidator-7.11.2-1.0.0.zip) |
