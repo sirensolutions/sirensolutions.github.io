@@ -3,6 +3,27 @@ permalink: /siren-ai/changelog
 ---
 # Siren AI changelog
 
+## 1.4.0
+
+- New features
+  - K9 can now perform global searches, searching relevant entity tables with the appropriate dynamic filters 🔍<br>
+    Clicking on the search action in the conversation window allows you to review the parameters K9 used and the results it got back
+  - K9 can create new graphs from search results and other data 🕸️
+  - K9 can add nodes, select nodes and group/ungroup nodes in graphs ➕
+  - K9 can add nodes to unopened saved graphs 💾
+  - K9 can see results from searches you make in the Search app and use them to perform actions (e.g. creating a graph) 💪
+  - Ollama can now use tools to perform actions like Azure and OpenAI 🦙
+
+- Improvements
+  - You can now define a timeout for LLMs in the Investigate server config
+  - When K9 fails to perform an action, the error message can be seen in the conversation history
+  - K9 can understand grouped edges in the graph
+  - K9 can now see record data used in record-as-relation edges
+  - Graph reports now display clickable badges when referencing records to help you find them in the graph
+  - Updated default user prompt in advanced settings to improve K9's assistive behaviour
+  - Various bug fixes and robustness improvements
+  - K9 now wags his tail when generating a response. Good boy! 🐶
+
 ## 1.3.3
 
 - Fixed an issue where K9 could not see selected nodes in the serialized graph
