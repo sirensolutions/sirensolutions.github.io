@@ -12,7 +12,7 @@ This plugin offers the following features:
 
 * Extends the Siren API scripting environment by providing a set of methods for interacting programmatically with a configured LLM. This allows for the customization of UIs and workflows that integrate generative AI.
 
-The supported LLM providers are OpenAI, Azure OpenAI, Ollama, and AWS Bedrock. Please refer to the [official documentation](https://docs.siren.io/siren-ai/2.0/siren-ai/c_introduction.html) to learn more about this plugin.
+The supported LLM providers are OpenAI, Azure OpenAI, AWS Bedrock and any provider that uses an OpenAI Chat-compliant API. Please refer to the [official documentation](https://docs.siren.io/siren-ai/2.0/siren-ai/c_introduction.html) to learn more about this plugin.
 
 <br />
 
