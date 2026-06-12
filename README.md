@@ -10,6 +10,10 @@ Source for the [Siren plugins documentation site](https://sirensolutions.github.
 
 > **macOS Apple Silicon note:** Ruby must be compiled for `arm64`. If you get a `Library not loaded: .../libgmp.10.dylib` error, your Ruby was built against the Intel Homebrew path (`/usr/local`). Install a fresh Ruby via rbenv to get a native arm64 build.
 
+Confirm that the ruby version is getting picked from rbenv by doing `which ruby`. If it says something other than `$HOME/.rbenv/shims/ruby`, then run `eval "$(rbenv init - bash)"` and try `which ruby` again. If you are using .zshrc on MacOS, run `eval "$(rbenv init - zsh)"`
+
+The `ruby -v` version should match the version in the .ruby-version file.
+
 ## Running locally
 
 1. **Install dependencies**

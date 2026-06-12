@@ -57,6 +57,37 @@ body {
   }
 }
 
+.paginated-table {
+  max-width: 600px;
+}
+
+.table-pagination {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 16px;
+}
+
+.table-pagination button {
+  min-width: 40px;
+  padding: 8px 12px;
+  border: 1px solid #c2c7d0;
+  border-radius: 4px;
+  background-color: white;
+  color: #0a0e2b;
+  cursor: pointer;
+}
+
+.table-pagination button:hover {
+  border-color: #003997;
+}
+
+.table-pagination button.is-active {
+  background-color: #003997;
+  border-color: #003997;
+  color: white;
+}
+
 .site-footer {
   flex-grow: 0;
   position: unset;
