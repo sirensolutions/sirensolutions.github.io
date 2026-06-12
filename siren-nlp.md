@@ -23,6 +23,7 @@ For more details, see our [documentation](https://docs.support.siren.io/siren-nl
 			</tr>
 		</thead>
 		<tbody>
+<tr><td>9.2.6</td><td><a href="https://download1.siren.io/plugins/siren-nlp/siren-nlp-9.2.6-0.6.1.zip">9.2.6-0.6.1</a></td></tr>
 			<tr><td>9.2.5</td><td><a href="https://download1.siren.io/plugins/siren-nlp/siren-nlp-9.2.5-0.6.0.zip">9.2.5-0.6.0</a></td></tr>
 			<tr><td>8.19.11</td><td><a href="https://download.siren.io/plugins/siren-nlp/siren-nlp-8.19.11-0.5.11.zip">8.19.11-0.5.11</a></td></tr>
 			<tr><td>8.19.10</td><td><a href="https://download.siren.io/plugins/siren-nlp/siren-nlp-8.19.10-0.5.11.zip">8.19.10-0.5.11</a></td></tr>
