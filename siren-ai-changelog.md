@@ -3,6 +3,28 @@ permalink: /siren-ai/changelog
 ---
 # Siren AI changelog
 
+## 2.1.0
+
+- New features
+  - Embeddings
+    - Added embedding support: Siren AI can now turn text into vector embeddings, which power [Semantic Search](https://docs.siren.io/siren-platform-user-guide/16.0/siren-investigate/semantic-search.html) in Siren Investigate 16.
+    - You can enable automatic splitting for long text and choose the embedding size.
+    - Also available in Siren Scripting.
+    - See [how to configure embedding models](https://docs.siren.io/siren-ai/2.1/siren-ai/t_configuring.html#_configuring_embedding_models) to get started.
+
+- Improvements
+  - You can now set the LLM provider log level with `siren-ai.logLevel`.
+  - Graph nodes are now highlighted when you hover over node selection badges.
+  - The message retry button is now disabled while K9 is responding.
+
+- Fixes
+  - Fixed issue where LLM tools with no parameters did not work for some LLM providers.
+  - Message retry button now uses the latest graph data.
+  - Permission errors now specify which permissions are missing.
+  - Fixed errors when DeepSeek returned malformed responses during tool calls.
+  - Fixed issue where the 'stop generation' button did not properly abort K9's reply.
+  - Fixed an error that occurred for some LLM providers when generating a graph report.
+
 ## 2.0.0
 
 - Breaking changes
